@@ -1,0 +1,28 @@
+header {
+    background-color: rgb(88, 88, 88);
+}
+body {
+
+    background-color: rgb(11, 45, 119);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+
+}
+nav li {
+    display:inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration: none;
+}
+nav {
+    position: absolute;
+    top: 70px;
+    right:70px ;
+}
